@@ -72,3 +72,10 @@ This project eliminates manual parsing by letting **AI perform root-cause analys
 git clone https://github.com/srini123k/CI-CD-LLMAnalyzer.git
 cd CI-CD-LLMAnalyzer
 pip install -r requirements.txt
+
+### Diagram
+
+
+<img width="1024" height="1536" alt="Automated CI_CD Root Cause Analysis Diagram" src="https://github.com/user-attachments/assets/40ea6475-9084-4cba-a103-48a3b715f329" />
+
+
